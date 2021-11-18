@@ -1,0 +1,1 @@
+config.updateTimeDelay = 5000 -- 5sec
